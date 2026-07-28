@@ -242,10 +242,10 @@
   {
     "id": "ARB07",
     "mapel": "BAHASA ARAB",
-    "date": "02-12-2025",
+    "date": "29-07-2026",
     "startTime": "07:30",
     "kupon": "KELAS7",
-    "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
+    "sheetId": "https://docs.google.com/spreadsheets/d/13yJ2DI4L9zUbR6abRxc8AV2Er1byAbvw-vR2tPfbH3k/edit?usp=sharing"
   },
   {
     "id": "ARB08",
