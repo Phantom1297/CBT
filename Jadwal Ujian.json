@@ -1,1 +1,10 @@
-
+[
+  {
+    "id": "ARAB01",
+    "mapel": "Bahasa Arab",
+    "date": "28-07-2026",
+    "startTime": "08:00",
+    "kupon": "KELAS7",
+    "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
+  }
+]
