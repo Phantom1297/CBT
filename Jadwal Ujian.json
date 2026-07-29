@@ -1,8 +1,8 @@
 [
   {
     "id": "IND07",
-    "mapel": "SKI",
-    "date": "30-07-2026",
+    "mapel": "BHS. INDONESIA",
+    "date": "29-07-2026",
     "startTime": "06:00",
     "kupon": "KELAS7",
     "sheetId": "https://docs.google.com/spreadsheets/d/13XgbJJtInbdX_Fg0DN-rSqeOqjTrOlLostaLxEW22rY/edit?usp=sharing"
@@ -218,10 +218,10 @@
   {
     "id": "SKI07",
     "mapel": "SKI",
-    "date": "01-12-2025",
-    "startTime": "10:00",
+    "date": "30-07-2026",
+    "startTime": "06:00",
     "kupon": "KELAS7",
-    "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
+    "sheetId": "https://docs.google.com/spreadsheets/d/13XgbJJtInbdX_Fg0DN-rSqeOqjTrOlLostaLxEW22rY/edit?usp=sharing"
   },
   {
     "id": "SKI08",
