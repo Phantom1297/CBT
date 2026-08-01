@@ -2,360 +2,360 @@
   {
     "id": "IND07",
     "mapel": "BHS. INDONESIA",
-    "date": "29-07-2026",
-    "startTime": "06:00",
+    "date": "01-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS7",
     "sheetId": "https://docs.google.com/spreadsheets/d/13XgbJJtInbdX_Fg0DN-rSqeOqjTrOlLostaLxEW22rY/edit?usp=sharing"
   },
   {
     "id": "IND08",
     "mapel": "BHS. INDONESIA",
-    "date": "30-07-2026",
-    "startTime": "22:30",
+    "date": "01-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "IND09",
     "mapel": "BHS. INDONESIA",
-    "date": "26-11-2025",
-    "startTime": "07:30",
+    "date": "01-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "QH07",
     "mapel": "QURAN HADIST",
-    "date": "26-11-2025",
-    "startTime": "10:00",
+    "date": "01-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "QH08",
     "mapel": "QURAN HADIST",
-    "date": "26-11-2025",
-    "startTime": "10:00",
+    "date": "01-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "QH09",
     "mapel": "QURAN HADIST",
-    "date": "26-11-2025",
-    "startTime": "10:00",
+    "date": "01-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "IPA07",
     "mapel": "IPA",
-    "date": "27-11-2025",
-    "startTime": "07:30",
+    "date": "03-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "IPA08",
     "mapel": "IPA",
-    "date": "27-11-2025",
-    "startTime": "07:30",
+    "date": "03-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "IPA09",
     "mapel": "IPA",
-    "date": "27-11-2025",
-    "startTime": "07:30",
+    "date": "03-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "FIQ07",
     "mapel": "FIQIH",
-    "date": "27-11-2025",
-    "startTime": "10:00",
+    "date": "03-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "FIQ08",
     "mapel": "FIQIH",
-    "date": "27-11-2025",
-    "startTime": "10:00",
+    "date": "03-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "FIQ09",
     "mapel": "FIQIH",
-    "date": "27-11-2025",
-    "startTime": "10:00",
+    "date": "03-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "MAT07",
     "mapel": "MATEMATIKA",
-    "date": "28-11-2025",
-    "startTime": "07:30",
+    "date": "04-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "MAT08",
     "mapel": "MATEMATIKA",
-    "date": "28-11-2025",
-    "startTime": "07:30",
+    "date": "04-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "MAT09",
     "mapel": "MATEMATIKA",
-    "date": "28-11-2025",
-    "startTime": "07:30",
+    "date": "04-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "INF07",
     "mapel": "INFORMATIKA",
-    "date": "28-11-2025",
-    "startTime": "10:00",
+    "date": "04-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "INF08",
     "mapel": "INFORMATIKA",
-    "date": "28-11-2025",
-    "startTime": "10:00",
+    "date": "04-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "INF09",
     "mapel": "INFORMATIKA",
-    "date": "28-11-2025",
-    "startTime": "10:00",
+    "date": "04-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "ING07",
     "mapel": "BHS. INGGRIS",
-    "date": "29-11-2025",
-    "startTime": "07:30",
+    "date": "05-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "ING08",
     "mapel": "BHS. INGGRIS",
-    "date": "29-11-2025",
-    "startTime": "07:30",
+    "date": "05-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "ING09",
     "mapel": "BHS. INGGRIS",
-    "date": "29-11-2025",
-    "startTime": "07:30",
+    "date": "05-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "AA07",
     "mapel": "AKIDAH AKHLAK",
-    "date": "29-11-2025",
-    "startTime": "10:00",
+    "date": "05-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "AA08",
     "mapel": "AKIDAH AKHLAK",
-    "date": "29-11-2025",
-    "startTime": "10:00",
+    "date": "05-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "AA09",
     "mapel": "AKIDAH AKHLAK",
-    "date": "29-11-2025",
-    "startTime": "10:00",
+    "date": "05-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "IPS07",
     "mapel": "IPS",
-    "date": "01-12-2025",
-    "startTime": "07:30",
+    "date": "06-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "IPS08",
     "mapel": "IPS",
-    "date": "01-12-2025",
-    "startTime": "07:30",
+    "date": "06-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "IPS09",
     "mapel": "IPS",
-    "date": "01-12-2025",
-    "startTime": "07:30",
+    "date": "06-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "SKI07",
     "mapel": "SKI",
-    "date": "30-07-2026",
-    "startTime": "06:00",
+    "date": "06-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS7",
     "sheetId": "https://docs.google.com/spreadsheets/d/13XgbJJtInbdX_Fg0DN-rSqeOqjTrOlLostaLxEW22rY/edit?usp=sharing"
   },
   {
     "id": "SKI08",
     "mapel": "SKI",
-    "date": "01-12-2025",
-    "startTime": "10:00",
+    "date": "06-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "SKI09",
     "mapel": "SKI",
-    "date": "01-12-2025",
-    "startTime": "10:00",
+    "date": "06-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "ARB07",
     "mapel": "BAHASA ARAB",
-    "date": "30-07-2026",
-    "startTime": "07:30",
+    "date": "07-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS7",
     "sheetId": "https://docs.google.com/spreadsheets/d/13yJ2DI4L9zUbR6abRxc8AV2Er1byAbvw-vR2tPfbH3k/edit?usp=sharing"
   },
   {
     "id": "ARB08",
     "mapel": "BAHASA ARAB",
-    "date": "02-12-2025",
-    "startTime": "07:30",
+    "date": "07-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "ARB09",
     "mapel": "BAHASA ARAB",
-    "date": "02-12-2025",
-    "startTime": "07:30",
+    "date": "07-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "PKN07",
     "mapel": "PPKn",
-    "date": "02-12-2025",
-    "startTime": "10:00",
+    "date": "07-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "PKN08",
     "mapel": "PPKn",
-    "date": "02-12-2025",
-    "startTime": "10:00",
+    "date": "07-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "PKN09",
     "mapel": "PPKn",
-    "date": "02-12-2025",
-    "startTime": "10:00",
+    "date": "07-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "PJS07",
     "mapel": "PENJAS",
-    "date": "03-12-2025",
-    "startTime": "07:30",
+    "date": "08-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "PJS08",
     "mapel": "PENJAS",
-    "date": "03-12-2025",
-    "startTime": "07:30",
+    "date": "08-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "PJS09",
     "mapel": "PENJAS",
-    "date": "03-12-2025",
-    "startTime": "07:30",
+    "date": "08-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "SB07",
     "mapel": "SENI BUDAYA",
-    "date": "03-12-2025",
-    "startTime": "10:00",
+    "date": "08-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "SB08",
     "mapel": "SENI BUDAYA",
-    "date": "03-12-2025",
-    "startTime": "10:00",
+    "date": "08-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "SB09",
     "mapel": "SENI BUDAYA",
-    "date": "03-12-2025",
-    "startTime": "10:00",
+    "date": "08-08-2026",
+    "startTime": "09:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "NU07",
     "mapel": "MULOK (Ke NU an)",
-    "date": "04-12-2025",
-    "startTime": "07:30",
+    "date": "10-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "NU08",
     "mapel": "MULOK (Ke NU an)",
-    "date": "04-12-2025",
-    "startTime": "07:30",
+    "date": "10-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
   {
     "id": "NU09",
     "mapel": "MULOK (Ke NU an)",
-    "date": "04-12-2025",
-    "startTime": "07:30",
+    "date": "10-08-2026",
+    "startTime": "07:00",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   }
