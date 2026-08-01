@@ -29,7 +29,7 @@
     "date": "01-08-2026",
     "startTime": "09:00",
     "kupon": "KELAS7",
-    "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
+    "sheetId": "https://docs.google.com/spreadsheets/d/15mBSVWJkJtbDil_UG7Whmu05V63y9tTd1ujQxA8t9Os/edit?usp=drive_link"
   },
   {
     "id": "QH08",
