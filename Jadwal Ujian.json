@@ -218,7 +218,7 @@
   {
     "id": "SKI07",
     "mapel": "SKI",
-    "date": "03-08-2026",
+    "date": "04-08-2026",
     "startTime": "09:00",
     "kupon": "KELAS7",
     "sheetId": "https://docs.google.com/spreadsheets/d/13XgbJJtInbdX_Fg0DN-rSqeOqjTrOlLostaLxEW22rY/edit?usp=drive_link"
@@ -227,7 +227,7 @@
     "id": "SKI08",
     "mapel": "SKI",
     "date": "06-08-2026",
-    "startTime": "09:00",
+    "startTime": "05:00",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI"
   },
