@@ -1,23 +1,5 @@
 [
   {
-    "id": "TES01",
-    "mapel": "Soal Uji Coba 1",
-    "date": "05-11-2026",
-    "startTime": "07:30",
-    "kupon": "KELAS7",
-    "sheetId": "https://docs.google.com/spreadsheets/d/15mBSVWJkJtbDil_UG7Whmu05V63y9tTd1ujQxA8t9Os/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
-  },
-  {
-    "id": "TES02",
-    "mapel": "Soal Uji Coba 2",
-    "date": "05-11-2026",
-    "startTime": "10:00",
-    "kupon": "KELAS7",
-    "sheetId": "https://docs.google.com/spreadsheets/d/15mBSVWJkJtbDil_UG7Whmu05V63y9tTd1ujQxA8t9Os/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
-  },
-  {
     "id": "IND07",
     "mapel": "BHS. INDONESIA",
     "date": "23-11-2026",
