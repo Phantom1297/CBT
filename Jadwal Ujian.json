@@ -1,12 +1,21 @@
 [
   {
+    "id": "TES07",
+    "mapel": "BHS. INDONESIA",
+    "date": "13-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1TWy9dqAN677knnwaU2jxnS2dunNzyEd1hQziLYPgfDg/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
     "id": "IND07",
     "mapel": "BHS. INDONESIA",
     "date": "23-11-2026",
     "startTime": "07:30",
     "kupon": "KELAS7",
     "sheetId": "https://docs.google.com/spreadsheets/d/1TWy9dqAN677knnwaU2jxnS2dunNzyEd1hQziLYPgfDg/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "IND08",
@@ -15,7 +24,7 @@
     "startTime": "07:30",
     "kupon": "KELAS8",
     "sheetId": "https://docs.google.com/spreadsheets/d/1ewZGPjPxagjwSHvPqMWuipq6yY3QjBc6oDpupMDLVy8/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "IND09",
@@ -24,7 +33,7 @@
     "startTime": "07:30",
     "kupon": "KELAS9",
     "sheetId": "https://docs.google.com/spreadsheets/d/1AFmNQYVrSA7zGmx5JbWmD5uFOvRj6EOEMgbktaqs3Pk/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "QH07",
@@ -33,7 +42,7 @@
     "startTime": "09:30",
     "kupon": "KELAS7",
     "sheetId": "https://docs.google.com/spreadsheets/d/1GOd7JaZ7ARJirIOhP3CnbZqHvt9WRl4h2utCNX8sXdo/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "QH08",
@@ -42,7 +51,7 @@
     "startTime": "09:30",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "QH09",
@@ -51,7 +60,7 @@
     "startTime": "09:30",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "IPA07",
@@ -60,7 +69,7 @@
     "startTime": "07:30",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "IPA08",
@@ -69,7 +78,7 @@
     "startTime": "07:30",
     "kupon": "KELAS8",
     "sheetId": "https://docs.google.com/spreadsheets/d/17qBrj2LfI6exgu-sPLnHTM0hLUrphc7wgEUVCltCAUg/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "IPA09",
@@ -78,7 +87,7 @@
     "startTime": "07:30",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "FIQ07",
@@ -87,7 +96,7 @@
     "startTime": "09:30",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "FIQ08",
@@ -96,7 +105,7 @@
     "startTime": "09:30",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "FIQ09",
@@ -105,61 +114,7 @@
     "startTime": "09:30",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
-  },
-  {
-    "id": "IPS07",
-    "mapel": "IPS",
-    "date": "25-11-2026",
-    "startTime": "07:30",
-    "kupon": "KELAS7",
-    "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
-  },
-  {
-    "id": "IPS08",
-    "mapel": "IPS",
-    "date": "25-11-2026",
-    "startTime": "07:30",
-    "kupon": "KELAS8",
-    "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
-  },
-  {
-    "id": "IPS09",
-    "mapel": "IPS",
-    "date": "25-11-2026",
-    "startTime": "07:30",
-    "kupon": "KELAS9",
-    "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
-  },
-  {
-    "id": "SKI07",
-    "mapel": "SKI",
-    "date": "25-11-2026",
-    "startTime": "09:30",
-    "kupon": "KELAS7",
-    "sheetId": "https://docs.google.com/spreadsheets/d/1_veYLl_YPSGpAdZxOqPGc8dNH5MUjQpY38gjRsNxM10/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
-  },
-  {
-    "id": "SKI08",
-    "mapel": "SKI",
-    "date": "25-11-2026",
-    "startTime": "09:30",
-    "kupon": "KELAS8",
-    "sheetId": "https://docs.google.com/spreadsheets/d/1X7Rg-1xG4yJsEWTkUQ0QQ3Pegit86bUbiJeJ3vpQanQ/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
-  },
-  {
-    "id": "SKI09",
-    "mapel": "SKI",
-    "date": "25-11-2026",
-    "startTime": "09:30",
-    "kupon": "KELAS9",
-    "sheetId": "https://docs.google.com/spreadsheets/d/1rS927H3nxi2vYGWXGJTXM0aGw2TntWX6V58MLocgVQ8/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "ING07",
@@ -168,7 +123,7 @@
     "startTime": "07:30",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "ING08",
@@ -177,7 +132,7 @@
     "startTime": "07:30",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "ING09",
@@ -186,7 +141,7 @@
     "startTime": "07:30",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "AA07",
@@ -195,7 +150,7 @@
     "startTime": "09:30",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "AA08",
@@ -204,7 +159,7 @@
     "startTime": "09:30",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "AA09",
@@ -213,7 +168,7 @@
     "startTime": "09:30",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "MAT07",
@@ -222,7 +177,7 @@
     "startTime": "07:20",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "MAT08",
@@ -231,7 +186,7 @@
     "startTime": "07:20",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "MAT09",
@@ -240,7 +195,7 @@
     "startTime": "07:20",
     "kupon": "KELAS9",
     "sheetId": "https://docs.google.com/spreadsheets/d/1-ef3ufk0nsgHC0143tflmIPsm3fSTpT54s_K5qHahh8/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "INF07",
@@ -249,7 +204,7 @@
     "startTime": "09:20",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "INF08",
@@ -258,7 +213,7 @@
     "startTime": "09:20",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "INF09",
@@ -267,7 +222,7 @@
     "startTime": "09:20",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "ARB07",
@@ -276,7 +231,7 @@
     "startTime": "07:30",
     "kupon": "KELAS7",
     "sheetId": "https://docs.google.com/spreadsheets/d/15tzpfQPGKo4NB8V2X_ZvAsjUP_UhjON8AZsgxlGEh1w/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "ARB08",
@@ -285,7 +240,7 @@
     "startTime": "07:30",
     "kupon": "KELAS8",
     "sheetId": "https://docs.google.com/spreadsheets/d/1GjeEj4SslnbYBRzr4vxW4HrVzBTiZJf6ajUehqcltWg/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "ARB09",
@@ -294,7 +249,7 @@
     "startTime": "07:30",
     "kupon": "KELAS9",
     "sheetId": "https://docs.google.com/spreadsheets/d/1CNFNXRL9x6oTshQYISvTrVRePOrKu4s0EGsoye3oORc/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "PKN07",
@@ -303,7 +258,7 @@
     "startTime": "09:30",
     "kupon": "KELAS7",
     "sheetId": "https://docs.google.com/spreadsheets/d/1uDGq9ndPJDfYo-hVcK8kWhLQMRBXMFIK0dgeGqCL_xc/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "PKN08",
@@ -312,7 +267,7 @@
     "startTime": "09:30",
     "kupon": "KELAS8",
     "sheetId": "https://docs.google.com/spreadsheets/d/1ucr154cxUa1K493pA6K0pe2bYcIPuG-SpZQPZqafKX4/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "PKN09",
@@ -321,7 +276,7 @@
     "startTime": "09:30",
     "kupon": "KELAS9",
     "sheetId": "https://docs.google.com/spreadsheets/d/1hCG27a6OIkvQOYuasrbGtgfyteF27QRKOTJ5ffAX5qk/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "PJS07",
@@ -330,7 +285,7 @@
     "startTime": "07:30",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "PJS08",
@@ -339,7 +294,7 @@
     "startTime": "07:30",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "PJS09",
@@ -348,7 +303,7 @@
     "startTime": "07:30",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "SB07",
@@ -357,7 +312,7 @@
     "startTime": "09:30",
     "kupon": "KELAS7",
     "sheetId": "https://docs.google.com/spreadsheets/d/1hyuLoki0mA7xl6W2POlm_yLjhTT292_vnzSBHKb6dLE/edit?usp=drive_link",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "SB08",
@@ -366,7 +321,7 @@
     "startTime": "09:30",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
     "id": "SB09",
@@ -375,33 +330,87 @@
     "startTime": "09:30",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
-    "id": "NU07",
-    "mapel": "MULOK (Ke NU an)",
+    "id": "IPS07",
+    "mapel": "IPS",
     "date": "01-12-2026",
     "startTime": "07:30",
     "kupon": "KELAS7",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
-    "id": "NU08",
-    "mapel": "MULOK (Ke NU an)",
+    "id": "IPS08",
+    "mapel": "IPS",
     "date": "01-12-2026",
     "startTime": "07:30",
     "kupon": "KELAS8",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
-    "id": "NU09",
-    "mapel": "MULOK (Ke NU an)",
+    "id": "IPS09",
+    "mapel": "IPS",
     "date": "01-12-2026",
     "startTime": "07:30",
     "kupon": "KELAS9",
     "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
-    "judulHasil": "HASIL PAS T.P 2026/2027"
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SKI07",
+    "mapel": "SKI",
+    "date": "01-12-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS7",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1_veYLl_YPSGpAdZxOqPGc8dNH5MUjQpY38gjRsNxM10/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SKI08",
+    "mapel": "SKI",
+    "date": "01-12-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS8",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1X7Rg-1xG4yJsEWTkUQ0QQ3Pegit86bUbiJeJ3vpQanQ/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SKI09",
+    "mapel": "SKI",
+    "date": "01-12-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS9",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1rS927H3nxi2vYGWXGJTXM0aGw2TntWX6V58MLocgVQ8/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "NU07",
+    "mapel": "MULOK (Ke NU an)",
+    "date": "02-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7",
+    "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "NU08",
+    "mapel": "MULOK (Ke NU an)",
+    "date": "02-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8",
+    "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "NU09",
+    "mapel": "MULOK (Ke NU an)",
+    "date": "02-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9",
+    "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
   }
 ]
