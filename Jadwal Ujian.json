@@ -1,8 +1,8 @@
 [
   {
     "id": "TES07",
-    "mapel": "BHS. INDONESIA",
-    "date": "13-11-2026",
+    "mapel": "TES 07",
+    "date": "14-11-2026",
     "startTime": "07:30",
     "kupon": "KELAS7",
     "sheetId": "https://docs.google.com/spreadsheets/d/1TWy9dqAN677knnwaU2jxnS2dunNzyEd1hQziLYPgfDg/edit?usp=drive_link",
@@ -149,7 +149,7 @@
     "date": "26-11-2026",
     "startTime": "09:30",
     "kupon": "KELAS7",
-    "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1j5SggJ9MLTxOb8hXB7ShOUhGUT2FAPCZQtNwPZ6r9ns/edit?usp=drive_link",
     "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
