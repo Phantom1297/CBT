@@ -104,7 +104,7 @@
     "date": "24-11-2026",
     "startTime": "07:30",
     "kupon": "KELAS9",
-    "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1L9A2duc62ztxiKYmAHQxfquvxCZ6jDwAfmjX1HXS7hw/edit?usp=drive_link",
     "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
