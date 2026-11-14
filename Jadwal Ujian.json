@@ -338,7 +338,7 @@
     "date": "30-11-2026",
     "startTime": "09:30",
     "kupon": "KELAS8",
-    "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
+    "sheetId": "https://docs.google.com/spreadsheets/d/13TeNBXufJl-_-6AnW-fAXVHWYjpQ-pqDHgNu6ZunKJ8/edit?usp=drive_link",
     "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
@@ -347,7 +347,7 @@
     "date": "30-11-2026",
     "startTime": "09:30",
     "kupon": "KELAS9",
-    "sheetId": "MASUKKAN_ID_GOOGLE_SHEETS_SOAL_DISINI",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1uF3BYraKcXYH00jKPGYJGsWZ1tEKIpdxpmg73CBmMos/edit?usp=drive_link",
     "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
