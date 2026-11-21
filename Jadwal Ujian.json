@@ -1,32 +1,5 @@
 [
   {
-    "id": "TES07",
-    "mapel": "TES 07",
-    "date": "21-11-2026",
-    "startTime": "07:30",
-    "kupon": "KELAS7",
-    "sheetId": "https://docs.google.com/spreadsheets/d/15tzpfQPGKo4NB8V2X_ZvAsjUP_UhjON8AZsgxlGEh1w/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
-    "id": "TES08",
-    "mapel": "TES 08",
-    "date": "21-11-2026",
-    "startTime": "07:30",
-    "kupon": "KELAS8",
-    "sheetId": "https://docs.google.com/spreadsheets/d/19dbTofZk1pNtRN-nGBIsgv2qKS9fUkjx1Bv0pl2UHgw/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
-    "id": "TES09",
-    "mapel": "TES 09",
-    "date": "21-11-2026",
-    "startTime": "07:30",
-    "kupon": "KELAS9",
-    "sheetId": "https://docs.google.com/spreadsheets/d/1L_cDjENiQRw_4re4oa_SAD3PQQeQUiF5Zp5oPRDe9kw/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
     "id": "IND07",
     "mapel": "BHS. INDONESIA",
     "date": "23-11-2026",
