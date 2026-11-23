@@ -4,6 +4,33 @@
     "mapel": "BHS. INDONESIA",
     "date": "23-11-2026",
     "startTime": "07:30",
+    "kupon": "KELAS7a",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1TWy9dqAN677knnwaU2jxnS2dunNzyEd1hQziLYPgfDg/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IND08",
+    "mapel": "BHS. INDONESIA",
+    "date": "23-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8a",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1ewZGPjPxagjwSHvPqMWuipq6yY3QjBc6oDpupMDLVy8/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IND09",
+    "mapel": "BHS. INDONESIA",
+    "date": "23-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9a",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1AFmNQYVrSA7zGmx5JbWmD5uFOvRj6EOEMgbktaqs3Pk/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IND07",
+    "mapel": "BHS. INDONESIA",
+    "date": "23-11-2026",
+    "startTime": "07:30",
     "kupon": "KELAS7",
     "sheetId": "https://docs.google.com/spreadsheets/d/1TWy9dqAN677knnwaU2jxnS2dunNzyEd1hQziLYPgfDg/edit?usp=drive_link",
     "judulHasil": "HASIL ASAS T.P 2026/2027"
