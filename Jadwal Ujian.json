@@ -4,6 +4,816 @@
     "mapel": "BHS. INDONESIA",
     "date": "23-11-2026",
     "startTime": "07:30",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1TWy9dqAN677knnwaU2jxnS2dunNzyEd1hQziLYPgfDg/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IND08",
+    "mapel": "BHS. INDONESIA",
+    "date": "23-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1ewZGPjPxagjwSHvPqMWuipq6yY3QjBc6oDpupMDLVy8/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IND09",
+    "mapel": "BHS. INDONESIA",
+    "date": "23-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1AFmNQYVrSA7zGmx5JbWmD5uFOvRj6EOEMgbktaqs3Pk/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "QH07",
+    "mapel": "QURAN HADIST",
+    "date": "23-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1GOd7JaZ7ARJirIOhP3CnbZqHvt9WRl4h2utCNX8sXdo/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "QH08",
+    "mapel": "QURAN HADIST",
+    "date": "23-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/19dbTofZk1pNtRN-nGBIsgv2qKS9fUkjx1Bv0pl2UHgw/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "QH09",
+    "mapel": "QURAN HADIST",
+    "date": "23-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1-hryeJ-m2z5xFwhZVQf9sI3HZ7pWO6gJ4sxj3NU7eKc/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IPA07",
+    "mapel": "IPA",
+    "date": "24-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1h-b4Kz1wPpyiFmjxiG4Y1DAmG9BzaoYA44DMrpH3Tpw/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IPA08",
+    "mapel": "IPA",
+    "date": "24-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/17qBrj2LfI6exgu-sPLnHTM0hLUrphc7wgEUVCltCAUg/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IPA09",
+    "mapel": "IPA",
+    "date": "24-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1L9A2duc62ztxiKYmAHQxfquvxCZ6jDwAfmjX1HXS7hw/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "FIQ07",
+    "mapel": "FIQIH",
+    "date": "24-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1LegtWReM114cZ9IDyw9RWXSUS9mJrqErkb54a6LWKag/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "FIQ08",
+    "mapel": "FIQIH",
+    "date": "24-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1-LaXs9480PirZqfQgBydTHj6CswFibp8pLY5HcKcl3E/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "FIQ09",
+    "mapel": "FIQIH",
+    "date": "24-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1gSWuK53F23zqP--7UrRZOrFCV3S1J2q4uVOGGxphXNw/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "ING07",
+    "mapel": "BHS. INGGRIS",
+    "date": "26-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/15XUA0UTjBBXzWHS6N0VzbrVhTC4dh1AOSV35p4dHfbM/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "ING08",
+    "mapel": "BHS. INGGRIS",
+    "date": "26-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1vWT80KqRzyfTmtlxb-DVgGpGv0Imp9NBpq9frxGWnAg/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "ING09",
+    "mapel": "BHS. INGGRIS",
+    "date": "26-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1o-7glBPPvaIkmxt1-fU6wXP_V5PUR35TATldJtiXQeI/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "AA07",
+    "mapel": "AKIDAH AKHLAK",
+    "date": "26-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1j5SggJ9MLTxOb8hXB7ShOUhGUT2FAPCZQtNwPZ6r9ns/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "AA08",
+    "mapel": "AKIDAH AKHLAK",
+    "date": "26-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/19C9Ja3awTi9T72faO8Hab8zuFsktO7Ayxdi9Seu9fqk/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "AA09",
+    "mapel": "AKIDAH AKHLAK",
+    "date": "26-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1EtFHX3ZpT5jiYNlBU01nWq-FNj9aZRYLFIwFZotlf5Q/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "MAT07",
+    "mapel": "MATEMATIKA",
+    "date": "27-11-2026",
+    "startTime": "07:20",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/16cNoOmhlwnoj2VT3CmizwpJ9Z2Z6bKn3RyFc2buyGlw/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "MAT08",
+    "mapel": "MATEMATIKA",
+    "date": "27-11-2026",
+    "startTime": "07:20",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1H09PuRJlRT2Irk5TmyJ4XwybHDiBSiT3j5f5hYIKI9I/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "MAT09",
+    "mapel": "MATEMATIKA",
+    "date": "27-11-2026",
+    "startTime": "07:20",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1-ef3ufk0nsgHC0143tflmIPsm3fSTpT54s_K5qHahh8/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "INF07",
+    "mapel": "INFORMATIKA",
+    "date": "27-11-2026",
+    "startTime": "09:20",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1-gISBZeAkkDQ-_OP3R8KbPFg0AkQd9TL799AOJbcsSA/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "INF08",
+    "mapel": "INFORMATIKA",
+    "date": "27-11-2026",
+    "startTime": "09:20",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1IrZv-A0NoxUheCAfP_X_bg9AyaGu8YWfIxvWHrd4nKk/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "INF09",
+    "mapel": "INFORMATIKA",
+    "date": "27-11-2026",
+    "startTime": "09:20",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1L_cDjENiQRw_4re4oa_SAD3PQQeQUiF5Zp5oPRDe9kw/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "ARB07",
+    "mapel": "BAHASA ARAB",
+    "date": "28-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/15tzpfQPGKo4NB8V2X_ZvAsjUP_UhjON8AZsgxlGEh1w/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "ARB08",
+    "mapel": "BAHASA ARAB",
+    "date": "28-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1GjeEj4SslnbYBRzr4vxW4HrVzBTiZJf6ajUehqcltWg/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "ARB09",
+    "mapel": "BAHASA ARAB",
+    "date": "28-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1CNFNXRL9x6oTshQYISvTrVRePOrKu4s0EGsoye3oORc/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "PKN07",
+    "mapel": "PPKn",
+    "date": "28-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1uDGq9ndPJDfYo-hVcK8kWhLQMRBXMFIK0dgeGqCL_xc/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "PKN08",
+    "mapel": "PPKn",
+    "date": "28-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1ucr154cxUa1K493pA6K0pe2bYcIPuG-SpZQPZqafKX4/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "PKN09",
+    "mapel": "PPKn",
+    "date": "28-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1hCG27a6OIkvQOYuasrbGtgfyteF27QRKOTJ5ffAX5qk/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "PJS07",
+    "mapel": "PENJAS",
+    "date": "30-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/13rXc19p7jFW5x8c9ONKBMWsi7mKNQ6cMkRraoZacfLo/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "PJS08",
+    "mapel": "PENJAS",
+    "date": "30-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1q4JgE2eOaqKufNTjf6tie9OC0241439D9IHgxZfoR4M/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "PJS09",
+    "mapel": "PENJAS",
+    "date": "30-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/13rXc19p7jFW5x8c9ONKBMWsi7mKNQ6cMkRraoZacfLo/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SB07",
+    "mapel": "SENI BUDAYA",
+    "date": "30-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1hyuLoki0mA7xl6W2POlm_yLjhTT292_vnzSBHKb6dLE/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SB08",
+    "mapel": "SENI BUDAYA",
+    "date": "30-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/13TeNBXufJl-_-6AnW-fAXVHWYjpQ-pqDHgNu6ZunKJ8/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SB09",
+    "mapel": "SENI BUDAYA",
+    "date": "30-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1uF3BYraKcXYH00jKPGYJGsWZ1tEKIpdxpmg73CBmMos/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IPS07",
+    "mapel": "IPS",
+    "date": "01-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1XZlMLTwM12Wv5S44SKbhTtF41_M0dD4T-_kcbfgCenU/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IPS08",
+    "mapel": "IPS",
+    "date": "01-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1Q-P2w8utFRRrjaEnC3SaYGtd7AH_0MN6XE55HAtRIDs/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IPS09",
+    "mapel": "IPS",
+    "date": "01-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/10o3u3_OaK_clDzZkJXHWzRhN_1j7fxLWS_v2Ig9rnHE/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SKI07",
+    "mapel": "SKI",
+    "date": "01-12-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1_veYLl_YPSGpAdZxOqPGc8dNH5MUjQpY38gjRsNxM10/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SKI08",
+    "mapel": "SKI",
+    "date": "01-12-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1X7Rg-1xG4yJsEWTkUQ0QQ3Pegit86bUbiJeJ3vpQanQ/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SKI09",
+    "mapel": "SKI",
+    "date": "01-12-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1rS927H3nxi2vYGWXGJTXM0aGw2TntWX6V58MLocgVQ8/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "NU07",
+    "mapel": "MULOK (Ke NU an)",
+    "date": "02-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1kPm38dSeNzh6sN2tHvozJk5PGSPafzQiOvy9DgRfqfs/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "NU08",
+    "mapel": "MULOK (Ke NU an)",
+    "date": "02-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1o14KrxfBVHB82RQt6xxOIpcgJFmj6GdpAhlawcGgR_I/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "NU09",
+    "mapel": "MULOK (Ke NU an)",
+    "date": "02-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9B",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1qFQeTY4De_fqyy4wZg0a865Hcig3ezJ0-GRxoTppjh4/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IND07",
+    "mapel": "BHS. INDONESIA",
+    "date": "23-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1TWy9dqAN677knnwaU2jxnS2dunNzyEd1hQziLYPgfDg/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IND08",
+    "mapel": "BHS. INDONESIA",
+    "date": "23-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1ewZGPjPxagjwSHvPqMWuipq6yY3QjBc6oDpupMDLVy8/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IND09",
+    "mapel": "BHS. INDONESIA",
+    "date": "23-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1AFmNQYVrSA7zGmx5JbWmD5uFOvRj6EOEMgbktaqs3Pk/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "QH07",
+    "mapel": "QURAN HADIST",
+    "date": "23-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1GOd7JaZ7ARJirIOhP3CnbZqHvt9WRl4h2utCNX8sXdo/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "QH08",
+    "mapel": "QURAN HADIST",
+    "date": "23-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/19dbTofZk1pNtRN-nGBIsgv2qKS9fUkjx1Bv0pl2UHgw/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "QH09",
+    "mapel": "QURAN HADIST",
+    "date": "23-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1-hryeJ-m2z5xFwhZVQf9sI3HZ7pWO6gJ4sxj3NU7eKc/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IPA07",
+    "mapel": "IPA",
+    "date": "24-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1h-b4Kz1wPpyiFmjxiG4Y1DAmG9BzaoYA44DMrpH3Tpw/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IPA08",
+    "mapel": "IPA",
+    "date": "24-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/17qBrj2LfI6exgu-sPLnHTM0hLUrphc7wgEUVCltCAUg/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IPA09",
+    "mapel": "IPA",
+    "date": "24-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1L9A2duc62ztxiKYmAHQxfquvxCZ6jDwAfmjX1HXS7hw/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "FIQ07",
+    "mapel": "FIQIH",
+    "date": "24-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1LegtWReM114cZ9IDyw9RWXSUS9mJrqErkb54a6LWKag/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "FIQ08",
+    "mapel": "FIQIH",
+    "date": "24-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1-LaXs9480PirZqfQgBydTHj6CswFibp8pLY5HcKcl3E/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "FIQ09",
+    "mapel": "FIQIH",
+    "date": "24-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1gSWuK53F23zqP--7UrRZOrFCV3S1J2q4uVOGGxphXNw/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "ING07",
+    "mapel": "BHS. INGGRIS",
+    "date": "26-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/15XUA0UTjBBXzWHS6N0VzbrVhTC4dh1AOSV35p4dHfbM/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "ING08",
+    "mapel": "BHS. INGGRIS",
+    "date": "26-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1vWT80KqRzyfTmtlxb-DVgGpGv0Imp9NBpq9frxGWnAg/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "ING09",
+    "mapel": "BHS. INGGRIS",
+    "date": "26-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1o-7glBPPvaIkmxt1-fU6wXP_V5PUR35TATldJtiXQeI/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "AA07",
+    "mapel": "AKIDAH AKHLAK",
+    "date": "26-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1j5SggJ9MLTxOb8hXB7ShOUhGUT2FAPCZQtNwPZ6r9ns/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "AA08",
+    "mapel": "AKIDAH AKHLAK",
+    "date": "26-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/19C9Ja3awTi9T72faO8Hab8zuFsktO7Ayxdi9Seu9fqk/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "AA09",
+    "mapel": "AKIDAH AKHLAK",
+    "date": "26-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1EtFHX3ZpT5jiYNlBU01nWq-FNj9aZRYLFIwFZotlf5Q/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "MAT07",
+    "mapel": "MATEMATIKA",
+    "date": "27-11-2026",
+    "startTime": "07:20",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/16cNoOmhlwnoj2VT3CmizwpJ9Z2Z6bKn3RyFc2buyGlw/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "MAT08",
+    "mapel": "MATEMATIKA",
+    "date": "27-11-2026",
+    "startTime": "07:20",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1H09PuRJlRT2Irk5TmyJ4XwybHDiBSiT3j5f5hYIKI9I/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "MAT09",
+    "mapel": "MATEMATIKA",
+    "date": "27-11-2026",
+    "startTime": "07:20",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1-ef3ufk0nsgHC0143tflmIPsm3fSTpT54s_K5qHahh8/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "INF07",
+    "mapel": "INFORMATIKA",
+    "date": "27-11-2026",
+    "startTime": "09:20",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1-gISBZeAkkDQ-_OP3R8KbPFg0AkQd9TL799AOJbcsSA/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "INF08",
+    "mapel": "INFORMATIKA",
+    "date": "27-11-2026",
+    "startTime": "09:20",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1IrZv-A0NoxUheCAfP_X_bg9AyaGu8YWfIxvWHrd4nKk/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "INF09",
+    "mapel": "INFORMATIKA",
+    "date": "27-11-2026",
+    "startTime": "09:20",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1L_cDjENiQRw_4re4oa_SAD3PQQeQUiF5Zp5oPRDe9kw/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "ARB07",
+    "mapel": "BAHASA ARAB",
+    "date": "28-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/15tzpfQPGKo4NB8V2X_ZvAsjUP_UhjON8AZsgxlGEh1w/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "ARB08",
+    "mapel": "BAHASA ARAB",
+    "date": "28-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1GjeEj4SslnbYBRzr4vxW4HrVzBTiZJf6ajUehqcltWg/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "ARB09",
+    "mapel": "BAHASA ARAB",
+    "date": "28-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1CNFNXRL9x6oTshQYISvTrVRePOrKu4s0EGsoye3oORc/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "PKN07",
+    "mapel": "PPKn",
+    "date": "28-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1uDGq9ndPJDfYo-hVcK8kWhLQMRBXMFIK0dgeGqCL_xc/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "PKN08",
+    "mapel": "PPKn",
+    "date": "28-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1ucr154cxUa1K493pA6K0pe2bYcIPuG-SpZQPZqafKX4/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "PKN09",
+    "mapel": "PPKn",
+    "date": "28-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1hCG27a6OIkvQOYuasrbGtgfyteF27QRKOTJ5ffAX5qk/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "PJS07",
+    "mapel": "PENJAS",
+    "date": "30-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/13rXc19p7jFW5x8c9ONKBMWsi7mKNQ6cMkRraoZacfLo/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "PJS08",
+    "mapel": "PENJAS",
+    "date": "30-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1q4JgE2eOaqKufNTjf6tie9OC0241439D9IHgxZfoR4M/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "PJS09",
+    "mapel": "PENJAS",
+    "date": "30-11-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/13rXc19p7jFW5x8c9ONKBMWsi7mKNQ6cMkRraoZacfLo/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SB07",
+    "mapel": "SENI BUDAYA",
+    "date": "30-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1hyuLoki0mA7xl6W2POlm_yLjhTT292_vnzSBHKb6dLE/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SB08",
+    "mapel": "SENI BUDAYA",
+    "date": "30-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/13TeNBXufJl-_-6AnW-fAXVHWYjpQ-pqDHgNu6ZunKJ8/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SB09",
+    "mapel": "SENI BUDAYA",
+    "date": "30-11-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1uF3BYraKcXYH00jKPGYJGsWZ1tEKIpdxpmg73CBmMos/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IPS07",
+    "mapel": "IPS",
+    "date": "01-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1XZlMLTwM12Wv5S44SKbhTtF41_M0dD4T-_kcbfgCenU/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IPS08",
+    "mapel": "IPS",
+    "date": "01-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1Q-P2w8utFRRrjaEnC3SaYGtd7AH_0MN6XE55HAtRIDs/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IPS09",
+    "mapel": "IPS",
+    "date": "01-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/10o3u3_OaK_clDzZkJXHWzRhN_1j7fxLWS_v2Ig9rnHE/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SKI07",
+    "mapel": "SKI",
+    "date": "01-12-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1_veYLl_YPSGpAdZxOqPGc8dNH5MUjQpY38gjRsNxM10/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SKI08",
+    "mapel": "SKI",
+    "date": "01-12-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1X7Rg-1xG4yJsEWTkUQ0QQ3Pegit86bUbiJeJ3vpQanQ/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "SKI09",
+    "mapel": "SKI",
+    "date": "01-12-2026",
+    "startTime": "09:30",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1rS927H3nxi2vYGWXGJTXM0aGw2TntWX6V58MLocgVQ8/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "NU07",
+    "mapel": "MULOK (Ke NU an)",
+    "date": "02-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS7A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1kPm38dSeNzh6sN2tHvozJk5PGSPafzQiOvy9DgRfqfs/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "NU08",
+    "mapel": "MULOK (Ke NU an)",
+    "date": "02-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS8A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1o14KrxfBVHB82RQt6xxOIpcgJFmj6GdpAhlawcGgR_I/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "NU09",
+    "mapel": "MULOK (Ke NU an)",
+    "date": "02-12-2026",
+    "startTime": "07:30",
+    "kupon": "KELAS9A",
+    "sheetId": "https://docs.google.com/spreadsheets/d/1qFQeTY4De_fqyy4wZg0a865Hcig3ezJ0-GRxoTppjh4/edit?usp=drive_link",
+    "judulHasil": "HASIL ASAS T.P 2026/2027"
+  },
+  {
+    "id": "IND07",
+    "mapel": "BHS. INDONESIA",
+    "date": "23-11-2026",
+    "startTime": "07:30",
     "kupon": "KELAS7",
     "sheetId": "https://docs.google.com/spreadsheets/d/1TWy9dqAN677knnwaU2jxnS2dunNzyEd1hQziLYPgfDg/edit?usp=drive_link",
     "judulHasil": "HASIL ASAS T.P 2026/2027"
