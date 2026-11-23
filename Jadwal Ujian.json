@@ -4,60 +4,6 @@
     "mapel": "BHS. INDONESIA",
     "date": "23-11-2026",
     "startTime": "07:30",
-    "kupon": "KELAS7B",
-    "sheetId": "https://docs.google.com/spreadsheets/d/1TWy9dqAN677knnwaU2jxnS2dunNzyEd1hQziLYPgfDg/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
-    "id": "IND08",
-    "mapel": "BHS. INDONESIA",
-    "date": "23-11-2026",
-    "startTime": "07:30",
-    "kupon": "KELAS8B",
-    "sheetId": "https://docs.google.com/spreadsheets/d/1ewZGPjPxagjwSHvPqMWuipq6yY3QjBc6oDpupMDLVy8/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
-    "id": "IND09",
-    "mapel": "BHS. INDONESIA",
-    "date": "23-11-2026",
-    "startTime": "07:30",
-    "kupon": "KELAS9B",
-    "sheetId": "https://docs.google.com/spreadsheets/d/1AFmNQYVrSA7zGmx5JbWmD5uFOvRj6EOEMgbktaqs3Pk/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
-    "id": "IND07",
-    "mapel": "BHS. INDONESIA",
-    "date": "23-11-2026",
-    "startTime": "07:30",
-    "kupon": "KELAS7a",
-    "sheetId": "https://docs.google.com/spreadsheets/d/1TWy9dqAN677knnwaU2jxnS2dunNzyEd1hQziLYPgfDg/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
-    "id": "IND08",
-    "mapel": "BHS. INDONESIA",
-    "date": "23-11-2026",
-    "startTime": "07:30",
-    "kupon": "KELAS8a",
-    "sheetId": "https://docs.google.com/spreadsheets/d/1ewZGPjPxagjwSHvPqMWuipq6yY3QjBc6oDpupMDLVy8/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
-    "id": "IND09",
-    "mapel": "BHS. INDONESIA",
-    "date": "23-11-2026",
-    "startTime": "07:30",
-    "kupon": "KELAS9a",
-    "sheetId": "https://docs.google.com/spreadsheets/d/1AFmNQYVrSA7zGmx5JbWmD5uFOvRj6EOEMgbktaqs3Pk/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
-    "id": "IND07",
-    "mapel": "BHS. INDONESIA",
-    "date": "23-11-2026",
-    "startTime": "07:30",
     "kupon": "KELAS7",
     "sheetId": "https://docs.google.com/spreadsheets/d/1TWy9dqAN677knnwaU2jxnS2dunNzyEd1hQziLYPgfDg/edit?usp=drive_link",
     "judulHasil": "HASIL ASAS T.P 2026/2027"
@@ -78,60 +24,6 @@
     "startTime": "07:30",
     "kupon": "KELAS9",
     "sheetId": "https://docs.google.com/spreadsheets/d/1AFmNQYVrSA7zGmx5JbWmD5uFOvRj6EOEMgbktaqs3Pk/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
-    "id": "QH07",
-    "mapel": "QURAN HADIST",
-    "date": "23-11-2026",
-    "startTime": "09:30",
-    "kupon": "KELAS7B",
-    "sheetId": "https://docs.google.com/spreadsheets/d/1GOd7JaZ7ARJirIOhP3CnbZqHvt9WRl4h2utCNX8sXdo/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
-    "id": "QH08",
-    "mapel": "QURAN HADIST",
-    "date": "23-11-2026",
-    "startTime": "09:30",
-    "kupon": "KELAS8B",
-    "sheetId": "https://docs.google.com/spreadsheets/d/19dbTofZk1pNtRN-nGBIsgv2qKS9fUkjx1Bv0pl2UHgw/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
-    "id": "QH09",
-    "mapel": "QURAN HADIST",
-    "date": "23-11-2026",
-    "startTime": "09:30",
-    "kupon": "KELAS9B",
-    "sheetId": "https://docs.google.com/spreadsheets/d/1-hryeJ-m2z5xFwhZVQf9sI3HZ7pWO6gJ4sxj3NU7eKc/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
-    "id": "QH07",
-    "mapel": "QURAN HADIST",
-    "date": "23-11-2026",
-    "startTime": "09:30",
-    "kupon": "KELAS7A",
-    "sheetId": "https://docs.google.com/spreadsheets/d/1GOd7JaZ7ARJirIOhP3CnbZqHvt9WRl4h2utCNX8sXdo/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
-    "id": "QH08",
-    "mapel": "QURAN HADIST",
-    "date": "23-11-2026",
-    "startTime": "09:30",
-    "kupon": "KELAS8A",
-    "sheetId": "https://docs.google.com/spreadsheets/d/19dbTofZk1pNtRN-nGBIsgv2qKS9fUkjx1Bv0pl2UHgw/edit?usp=drive_link",
-    "judulHasil": "HASIL ASAS T.P 2026/2027"
-  },
-  {
-    "id": "QH09",
-    "mapel": "QURAN HADIST",
-    "date": "23-11-2026",
-    "startTime": "09:30",
-    "kupon": "KELAS9A",
-    "sheetId": "https://docs.google.com/spreadsheets/d/1-hryeJ-m2z5xFwhZVQf9sI3HZ7pWO6gJ4sxj3NU7eKc/edit?usp=drive_link",
     "judulHasil": "HASIL ASAS T.P 2026/2027"
   },
   {
